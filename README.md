@@ -4,7 +4,7 @@
 ## About The Project
 ### Info
 
-* []()This respository contains all files for the project in Mechatronic project ME3017 HCMUT
+* []()This respository contains Arduino code for the project in Mechatronic project ME3017 HCMUT
 
 * []()Project name: Line following robot
 
